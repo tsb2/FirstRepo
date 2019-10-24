@@ -1,4 +1,0 @@
-This is a Java File.
-
-
-// This is a comment in Java
